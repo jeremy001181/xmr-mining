@@ -1,1 +1,1 @@
-* * * * * cd /home/jeremy001181/cpuminer-multi/ && ./run.sh
+* * * * * cd /home/jeremy001181/xmr-mining/ && ./run.sh
